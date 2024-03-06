@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indureddy1234/week5.git/static/css/main.eb3162bd.css",
+    "main.js": "/indureddy1234/week5.git/static/js/main.c8c4b32d.js",
+    "static/js/453.7cc2c848.chunk.js": "/indureddy1234/week5.git/static/js/453.7cc2c848.chunk.js",
+    "index.html": "/indureddy1234/week5.git/index.html",
+    "main.eb3162bd.css.map": "/indureddy1234/week5.git/static/css/main.eb3162bd.css.map",
+    "main.c8c4b32d.js.map": "/indureddy1234/week5.git/static/js/main.c8c4b32d.js.map",
+    "453.7cc2c848.chunk.js.map": "/indureddy1234/week5.git/static/js/453.7cc2c848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb3162bd.css",
+    "static/js/main.c8c4b32d.js"
+  ]
+}
